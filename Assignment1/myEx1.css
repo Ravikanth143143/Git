@@ -1,0 +1,45 @@
+﻿.banner {
+    width: 100%;
+    height: 150px;
+}
+
+body {
+    background-color: #aa6909;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+          }
+
+.menu {
+    width: 250px;
+    border: hidden;  
+    font-size: 25px;
+    font-style: initial;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0000a0;
+}
+
+.menu:hover {
+    background-color: #e6a64e;
+}
+
+a {
+    display: inline-block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+}
+
+.matter {
+    border-style: solid;
+    border-color: ActiveCaption;
+    border-width: thin;    
+    width: 500px;
+}
