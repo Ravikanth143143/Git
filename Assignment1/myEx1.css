@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: #aa6909;
+    background-image: url('Images/BackGround.jpg');
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 200px;
     margin-right: 200px;
-          }
+}
 
 .menu {
     width: 250px;
@@ -42,4 +42,5 @@ a {
     border-color: ActiveCaption;
     border-width: thin;    
     width: 500px;
+    background-color: #ffbe7d;
 }
