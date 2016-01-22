@@ -44,7 +44,7 @@
                             <tr>
                                 <td class="matter">
                                     <h1 style = "text-align:center;color:blue;">Contact Us</h1>
-                                    <h2 style ="text-wrap:normal; padding-left:2em;color:#cc6600;">Texans Serving Texans 24 Hours a Day!</h2>
+                                    <h2 style ="text-wrap:normal; color:#cc6600;text-align:center;">Texans Serving Texans 24 Hours a Day!</h2>
                                     <p style = "text-align:center;color:blue;font-size:xx-large;"><b>Toll Free</b></p>
                                     <p style ="text-align:center;color:#cc6600;font-size:x-large;"><u><b>(888)610-1244</b></u></p>
                                     <p style = "text-align:center;color:blue;font-size:xx-large;"><b>Houston</b></p>
